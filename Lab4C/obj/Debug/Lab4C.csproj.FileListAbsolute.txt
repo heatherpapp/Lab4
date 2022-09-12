@@ -1,8 +1,0 @@
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\bin\Debug\Lab4C.exe.config
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\bin\Debug\Lab4C.exe
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\bin\Debug\Lab4C.pdb
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\obj\Debug\Lab4C.csproj.AssemblyReference.cache
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\obj\Debug\Lab4C.csproj.SuggestedBindingRedirects.cache
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\obj\Debug\Lab4C.csproj.CoreCompileInputs.cache
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\obj\Debug\Lab4C.exe
-C:\Users\heath\OneDrive\Documents\Business\KSU\CSE\Assignments\CSE 1321\repos\Lab4C\Lab4C\obj\Debug\Lab4C.pdb
